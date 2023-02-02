@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\iandr\source\repos\Project18\Project18\Source.cpp(49,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\iandr\source\repos\Project18\Project18\Source.cpp(49,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\iandr\source\repos\Project18\Project18\Source.cpp(48,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\iandr\source\repos\Project18\Project18\Source.cpp(48,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Project18.vcxproj -> C:\Users\iandr\source\repos\Project18\x64\Debug\Project18.exe

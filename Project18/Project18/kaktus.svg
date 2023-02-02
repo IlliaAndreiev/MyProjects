@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="300px" height="300px">
+<rect x="0" y="0" width="300" height="300" style="fill:white;stroke:lightgray;stroke-width:1;" />
+
+<path fill="none" stroke="black" id="turtlepath"  d="M 150 290 L 150 80 L 100 80 L 7.9347e+47 -1.29583e+64 L 7.9347e+47 -1.29583e+64 L 1.1902e+48 -1.94375e+64 L 7.9347e+47 -1.29583e+64 L 7.9347e+47 -1.29583e+64 L 1.1902e+48 -1.94375e+64 L 7.9347e+47 -1.29583e+64 L 7.9347e+47 -1.29583e+64 L 0 1.4615e+48 L 1.58694e+48 -2.59167e+64 L 0 2.923e+48 L 100 2.923e+48 L 7.9347e+47 -1.29583e+64 L 7.9347e+47 -1.29583e+64 L 1.1902e+48 -1.94375e+64 L 7.9347e+47 -1.29583e+64 L 7.9347e+47 -1.29583e+64 L 1.1902e+48 -1.94375e+64 L 7.9347e+47 -1.29583e+64 L 7.9347e+47 -1.29583e+64 L 0 4.3845e+48 L 1.58694e+48 -2.59167e+64 L 0 2.923e+48 L -50 2.923e+48 L -50 2.923e+48 L -50 2.923e+48 L -50 2.923e+48"/>
+
+<path id="turtle" fill="red" d="M 10 0 L -10 -8 L -10 8 ">
+  <animateMotion dur="2.07334e+63s" repeatCount="1" rotate="auto">
+  <mpath xlink:href="#turtlepath"/>
+  </animateMotion>
+</path>
+<set xlink:href="#turtle" attributeName="visibility" to="hidden" begin="2.07334e+63s" dur="indefinite" />
+
+</svg>

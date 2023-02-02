@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="410px" height="160px">
+<rect x="0" y="0" width="410" height="160" style="fill:white;stroke:lightgray;stroke-width:1;" />
+
+<line id="item0" x1="10.5" y1="10.5" x2="50" y2="30" style="stroke:black;stroke-width:1;fill:red" />
+<line id="item1" x1="100" y1="150" x2="50" y2="30" style="stroke:black;stroke-width:1;fill:red" />
+<line id="item2" x1="210" y1="110" x2="380" y2="150" style="stroke:black;stroke-width:1;fill:green" />
+<line id="item3" x1="70" y1="10.5" x2="50" y2="30" style="stroke:black;stroke-width:1;fill:red" />
+<ellipse id="item4" cx="10.5" cy="10.5" rx="7" ry="7" style="stroke:black;stroke-width:1;fill:red" />
+<ellipse id="item5" cx="100" cy="150" rx="7" ry="7" style="stroke:black;stroke-width:1;fill:red" />
+<ellipse id="item6" cx="210" cy="110" rx="7" ry="7" style="stroke:black;stroke-width:1;fill:green" />
+<ellipse id="item7" cx="70" cy="10.5" rx="7" ry="7" style="stroke:black;stroke-width:1;fill:red" />
+<rect id="item8" x="43" y="23" width="15" height="15" style="stroke:black;stroke-width:1;fill:red" />
+<rect id="item9" x="373" y="143" width="15" height="15" style="stroke:black;stroke-width:1;fill:green" />
+</svg>
