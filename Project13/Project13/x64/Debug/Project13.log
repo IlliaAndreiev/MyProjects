@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\iandr\source\repos\Project13\Project13\Source.cpp(18,67): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iandr\source\repos\Project13\Project13\Source.cpp(21,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iandr\source\repos\Project13\Project13\Source.cpp(28,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project13.vcxproj -> C:\Users\iandr\source\repos\Project13\x64\Debug\Project13.exe
