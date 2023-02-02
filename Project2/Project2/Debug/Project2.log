@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\iandr\source\repos\Project2\Project2\Source.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\iandr\source\repos\Project2\Project2\Source.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\iandr\source\repos\Project2\Project2\Source.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project2.vcxproj -> C:\Users\iandr\source\repos\Project2\Debug\Project2.exe
