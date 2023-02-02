@@ -1,0 +1,1 @@
+#ifndef  TRIANGLE_HPP_
